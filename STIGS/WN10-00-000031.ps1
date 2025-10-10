@@ -11,7 +11,7 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000510
+    STIG-ID         : WN10-00-000031
 
 .TESTED ON
     Date(s) Tested  : 2025-10-09
@@ -22,7 +22,7 @@
 .USAGE
 Run the script in PowerShell with administrative privileges.
 Example:
-PS C:> .\Remediation_WN10-AU-000510.ps1
+PS C:> .\Remediation_WN10-00-000031.ps1
 #>
 
 # Define registry path
