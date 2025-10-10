@@ -9,7 +9,7 @@
     Date Created    : 2025-09-29
     Last Modified   : 2025-09-29
     Version         : 1.0
-    CVEs            : N/A
+    CVEs            : N//A
     Plugin IDs      : N/A
     STIG-ID         : WN10-CC-000315
 
