@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures the System event log maximum size is configured to 32768 KB.
+    This PowerShell script ensures that BitLocker requires a PIN for startup authentication on operating system drives.
 
 .NOTES
     Author          : Muhammad Saidmurodov
