@@ -14,15 +14,15 @@
     STIG-ID         : WN10-AU-000500
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Date(s) Tested  : 2025-06-22
+    Tested By       : Muhammad Saidmurodov
+    Systems Tested  : Windows 10 Pro 22H2
+    PowerShell Ver. : 5.1
 
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PPS C:> .\Remediation_WN10-AU-000500.ps1 
 #>
 
 # Define registry path and value
